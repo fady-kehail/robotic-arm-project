@@ -116,6 +116,9 @@ robot arm/robot arm2.jpg
 robot arm/robot arm3.jpg
 robot arm/robot arm4.jpg
 robot arm/robot arm5.jpg
+robot arm/robot arm6.jpg
+robot arm/robot arm7.jpg
+
 ---
 
 ## 🚀 Future Improvements
